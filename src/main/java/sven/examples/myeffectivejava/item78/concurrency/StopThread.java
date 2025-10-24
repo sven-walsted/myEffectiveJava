@@ -1,4 +1,4 @@
-package sven.examples.myeffectivejava.items.concurrency.item78;
+package sven.examples.myeffectivejava.item78.concurrency;
 
 import java.util.concurrent.TimeUnit;
 
