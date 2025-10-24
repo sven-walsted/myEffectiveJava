@@ -4,6 +4,7 @@ package sven.examples.myeffectivejava.item01.factory;
  * Static Factory Methods - returns an instance of the class.
  * 
  * Note: not the same as Gamma95 Factory Method.
+ * Note: not the same as Gamma95 Factory Method.
  * 
  * Advantages:
  * 
