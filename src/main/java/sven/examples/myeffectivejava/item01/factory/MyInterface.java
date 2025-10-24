@@ -19,7 +19,11 @@ public interface MyInterface extends Collection<String> {
 	 * 
 	 * The Collections Framework API has 45 utility implementation of its
 	 * interfaces, providing unmodifiable collection, synchronized collections, and
+<<<<<<< HEAD
 	 * the like. Nearly all of these implementation are exported via static factory
+=======
+	 * the like Nearly all of these implementation are exported via static factory
+>>>>>>> 96270eee947c9afe596a897888026d6738d447ed
 	 * methods in one non-instantiable class, java.util.Collections. The classes of
 	 * the returned objects are all non-public.
 	 * 
